@@ -1,0 +1,13 @@
+{
+  "name": "ucrm-datausage-node",
+  "version": "1.0.0",
+  "description": "Simple plugin that emails clients when they are close to their data limit",
+  "main": "index.js",
+  "repository": "https://github.com/Windship-LLC/ucrm-datausage-node",
+  "author": "afroraydude",
+  "license": "MIT",
+  "dependencies": {
+    "dayjs": "^1.9.1",
+    "node-fetch": "^2.6.1"
+  }
+}

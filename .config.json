@@ -1,0 +1,11 @@
+{
+  "apiKeys": {
+    "write": "insert-write-key-here",
+    "read": "insert-read-key-here"
+  },
+  "unmsDomain": "unms.windship.net",
+  "servicesWithLimits": [
+    "insert service name",
+    "..."
+  ]
+}
